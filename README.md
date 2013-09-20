@@ -29,16 +29,16 @@
 
 ```ViewController.m
 // デフォルトテキストで初期化
-    loadingView = [[LoadingView alloc] init];
-    loadingView.center = CGPointMake(self.view.center.x, self.view.center.y-40);
-    [self.view addSubview:loadingView];
+loadingView = [[LoadingView alloc] init];
+loadingView.center = CGPointMake(self.view.center.x, self.view.center.y-40);
+[self.view addSubview:loadingView];
     
-    // カスタムテキストで初期化
-    loadingViewWithTitle = [[LoadingView alloc] initWithTitle:@"処理中..."];
-    loadingViewWithTitle.center = CGPointMake(self.view.center.x, self.view.center.y-40);
-    [self.view addSubview:loadingViewWithTitle];
-    // 色をカスタム
-    loadingViewWithTitle.backgroundColor = [UIColor colorWithRed:1 green:0 blue:0 alpha:0.7];
+// カスタムテキストで初期化
+loadingViewWithTitle = [[LoadingView alloc] initWithTitle:@"処理中..."];
+loadingViewWithTitle.center = CGPointMake(self.view.center.x, self.view.center.y-40);
+[self.view addSubview:loadingViewWithTitle];
+// 色をカスタム
+loadingViewWithTitle.backgroundColor = [UIColor colorWithRed:1 green:0 blue:0 alpha:0.7];
 ```
 
 **表示・非表示の切り替え**
