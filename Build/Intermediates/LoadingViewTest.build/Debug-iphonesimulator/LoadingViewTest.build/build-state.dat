@@ -1,371 +1,0 @@
-TLoadingViewTest
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Info.plist LoadingViewTest/LoadingViewTest-Info.plist
-cProcessPCH /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch.pth LoadingViewTest/LoadingViewTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/AppDelegate.o /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/main.o /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/ViewController.o /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/LoadingView.o /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingView/LoadingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest normal i386
-cGenerateDSYMFile /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app.dSYM /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest
-cCompileXIB /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/en.lproj/ViewController.xib
-cCopyStringsFile /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/en.lproj/InfoPlist.strings LoadingViewTest/en.lproj/InfoPlist.strings
-cCpResource LoadingViewTest/Default@2x.png Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default@2x.png
-cCpResource LoadingViewTest/Default-568h@2x.png Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default-568h@2x.png
-cCpResource LoadingViewTest/Default.png Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default.png
-cTouch /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
-c0000000050EDEAFB0000000000000110
-t1357769467
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000051BBC5FE0000000000228FE0
-t1371260414
-s2265056
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000051BBC60000000000003DDFA0
-t1371260416
-s4054944
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c0000000051BBC60000000000000015F7
-t1371260416
-s5623
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
-c0000000051BBC60400000000001D5750
-t1371260420
-s1922896
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c0000000051BBC6050000000000000E8D
-t1371260421
-s3725
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000051BBC6060000000000AB6230
-t1371260422
-s11231792
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
-c0000000051BBC6340000000000001B73
-t1371260468
-s7027
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/AppDelegate.o
-t1379683380
-s89900
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/LoadingView.o
-t1379685130
-s90284
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/LoadingViewTest.LinkFileList
-c00000000523C4C2E0000000000000274
-t1379683374
-s628
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/ViewController.o
-t1379685742
-s76696
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/main.o
-t1379683380
-s3292
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-bbbpmsiyrycxrlfblqbpkbhcbksx/LoadingViewTest-Prefix.pch.pth
-t2
-s0
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch.pth
-t1379683377
-s4675292
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app
-t1379685742
-s306
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app.dSYM
-t1379685742
-s102
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default-568h@2x.png
-t1379683419
-s18594
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default.png
-t1379683419
-s6540
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default@2x.png
-t1379683419
-s16107
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Info.plist
-t1379683374
-s825
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest
-t1379685742
-s45356
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/PkgInfo
-t1379683374
-s8
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/en.lproj/InfoPlist.strings
-t1379683419
-s42
-
-N/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/en.lproj/ViewController.nib
-t1379685522
-s1729
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/AppDelegate.h
-c00000000523C47BD0000000000000175
-t1379682237
-s373
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/AppDelegate.m
-c00000000523C47BD0000000000000908
-t1379682237
-s2312
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/Default-568h@2x.png
-c0000000051B1755C00000000000048A2
-t1370584412
-s18594
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/Default.png
-c0000000051B1755C000000000000198C
-t1370584412
-s6540
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/Default@2x.png
-c0000000051B1755C0000000000003EEB
-t1370584412
-s16107
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingView/LoadingView.h
-c00000000523C52FE000000000000013C
-t1379685118
-s316
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingView/LoadingView.m
-c00000000523C52EF0000000000001179
-t1379685103
-s4473
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingViewTest-Prefix.pch
-c00000000523C47BD000000000000014D
-t1379682237
-s333
-i<Availability.h>
-i<UIKit/UIKit.h>
-i<Foundation/Foundation.h>
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/ViewController.h
-c00000000523C47BD00000000000000E0
-t1379682237
-s224
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/ViewController.m
-c00000000523C556600000000000006EC
-t1379685734
-s1772
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/en.lproj/InfoPlist.strings
-c00000000523C47BC000000000000002D
-t1379682236
-s45
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/en.lproj/ViewController.xib
-c00000000523C55800000000000003F95
-t1379685760
-s16277
-
-N/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/main.m
-c00000000523C47BC0000000000000159
-t1379682236
-s345
-
-NLoadingViewTest/LoadingViewTest-Info.plist
-c00000000523C47BC000000000000048B
-t1379682236
-s1163
-
-CBuild AST from /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/AppDelegate.m
-r0
-
-CBuild AST from /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingView/LoadingView.m
-r0
-
-CBuild AST from /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/ViewController.m
-r0
-
-CBuild AST from /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/main.m
-r0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7c0e58008decb741^514a58008decb741^---0#1#0#--18"Check dependencies36"E2048034-7C84-416E-B16E-D5645B549A5F-
-
-CCompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/AppDelegate.o /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401376177.914364
-e401376180.431314
-r1
-xCompileC
-xBuild/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/AppDelegate.o
-x/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/AppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/AppDelegate.mf645eab183ecb741^db6a6eb483ecb741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/AppDelegate.m0000000000000000^3785"CompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/AppDelegate.o LoadingViewTest/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/LoadingViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-generated-files.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-own-target-headers.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-all-target-headers.hmap -iquote /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-project-headers.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/DerivedSources/i386 -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/DerivedSources -F/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/AppDelegate.dia -c /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/AppDelegate.m -o /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/AppDelegate.o36"AE6C8AF2-6099-456A-8993-A40111B6DDA4-
-
-CCompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/LoadingView.o /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingView/LoadingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401377929.666955
-e401377930.628567
-r1
-xCompileC
-xBuild/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/LoadingView.o
-x/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingView/LoadingView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingView/LoadingView.m39d5aa898aecb741^cceba08a8aecb741^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingView/LoadingView.m0000000000000000^3809"CompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/LoadingView.o LoadingViewTest/LoadingView/LoadingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/LoadingViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-generated-files.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-own-target-headers.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-all-target-headers.hmap -iquote /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-project-headers.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/DerivedSources/i386 -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/DerivedSources -F/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/LoadingView.d --serialize-diagnostics /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/LoadingView.dia -c /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingView/LoadingView.m -o /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/LoadingView.o36"A522E306-41BC-4AC6-AB17-5EDF857F900F-
-
-CCompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/ViewController.o /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401378542.064286
-e401378542.170307
-r1
-xCompileC
-xBuild/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/ViewController.o
-x/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/ViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/ViewController.mb49010ee8cecb741^899b2bee8cecb741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/ViewController.m0000000000000000^3803"CompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/ViewController.o LoadingViewTest/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/LoadingViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-generated-files.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-own-target-headers.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-all-target-headers.hmap -iquote /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-project-headers.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/DerivedSources/i386 -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/DerivedSources -F/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/ViewController.dia -c /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/ViewController.m -o /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/ViewController.o36"AA002CA7-C367-4773-969D-9E47FF9DF002-
-
-CCompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/main.o /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401376177.913810
-e401376180.430342
-r1
-xCompileC
-xBuild/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/main.o
-x/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/main.mdd24eab183ecb741^ed2c6eb483ecb741^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/main.m0000000000000000^3743"CompileC Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/main.o LoadingViewTest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/LoadingViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-generated-files.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-own-target-headers.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-all-target-headers.hmap -iquote /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-project-headers.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/DerivedSources/i386 -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/DerivedSources -F/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator -include /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch -MMD -MT dependencies -MF /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/main.dia -c /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/main.m -o /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/main.o36"C765061F-95EC-437C-8D37-07AA347CBA74-
-
-CCompileXIB /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/en.lproj/ViewController.xib
-s401378560.393854
-e401378567.940228
-r1
-xCompileXIB
-x/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/en.lproj/ViewController.xib
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/en.lproj/ViewController.xib7de664008decb741^fbb2f0078decb741^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/en.lproj/ViewController.xib0000000000000000^944"CompileXIB LoadingViewTest/en.lproj/ViewController.xib    cd /Users/Masato/Desktop/LoadingViewTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/en.lproj/ViewController.nib /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/en.lproj/ViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"8DD78E22-0C05-4B64-A072-EAE3A6434737-
-
-CCopyStringsFile /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/en.lproj/InfoPlist.strings LoadingViewTest/en.lproj/InfoPlist.strings
-s401376219.720539
-e401376219.850399
-r1
-xCopyStringsFile
-x/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/en.lproj/InfoPlist.strings
-xLoadingViewTest/en.lproj/InfoPlist.strings
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Copy LoadingViewTest/en.lproj/InfoPlist.stringsefabbadb83ecb741^35b4d9db83ecb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/en.lproj/InfoPlist.strings0000000000000000^623"CopyStringsFile Build/Products/Debug-iphonesimulator/LoadingViewTest.app/en.lproj/InfoPlist.strings LoadingViewTest/en.lproj/InfoPlist.strings    cd /Users/Masato/Desktop/LoadingViewTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/en.lproj -- LoadingViewTest/en.lproj/InfoPlist.strings36"BDF3BDC1-473E-4A7B-B493-EC722B4A5EDE-
-
-CCpResource LoadingViewTest/Default-568h@2x.png Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default-568h@2x.png
-s401376219.720886
-e401376219.809517
-r1
-xCpResource
-xLoadingViewTest/Default-568h@2x.png
-xBuild/Products/Debug-iphonesimulator/LoadingViewTest.app/Default-568h@2x.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default-568h@2x.png77bfbadb83ecb741^0b44cfdb83ecb741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default-568h@2x.png000000000080d041^651"CpResource "LoadingViewTest/Default-568h@2x.png" "Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default-568h@2x.png"    cd /Users/Masato/Desktop/LoadingViewTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/Default-568h@2x.png" /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app36"C2182AD9-9DE2-4EF8-9A56-C231215C9F01-
-
-CCpResource LoadingViewTest/Default.png Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default.png
-s401376219.720543
-e401376219.809465
-r1
-xCpResource
-xLoadingViewTest/Default.png
-xBuild/Products/Debug-iphonesimulator/LoadingViewTest.app/Default.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default.pngd690b8db83ecb741^3542cfdb83ecb741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default.png000000000080d041^621"CpResource LoadingViewTest/Default.png Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default.png    cd /Users/Masato/Desktop/LoadingViewTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/Default.png /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app36"7E3E7502-84FE-4605-ACD6-A931CDE909A7-
-
-CCpResource LoadingViewTest/Default@2x.png Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default@2x.png
-s401376219.720559
-e401376219.809462
-r1
-xCpResource
-xLoadingViewTest/Default@2x.png
-xBuild/Products/Debug-iphonesimulator/LoadingViewTest.app/Default@2x.png
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Copy Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default@2x.png1d90b8db83ecb741^ee3ecfdb83ecb741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default@2x.png000000000080d041^636"CpResource "LoadingViewTest/Default@2x.png" "Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Default@2x.png"    cd /Users/Masato/Desktop/LoadingViewTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/Default@2x.png" /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app36"A17E35EC-38B8-44EA-A0D6-8BAD2EAC7341-
-
-CGenerateDSYMFile /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app.dSYM /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest
-s401378542.299551
-e401378542.521282
-r1
-xGenerateDSYMFile
-x/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app.dSYM
-x/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Generate /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app.dSYM51be4cee8cecb741^217385ee8cecb741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app.dSYM/0000000000000000^706"GenerateDSYMFile Build/Products/Debug-iphonesimulator/LoadingViewTest.app.dSYM Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest    cd /Users/Masato/Desktop/LoadingViewTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest -o /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app.dSYM36"8DA4AFB7-3B1B-4001-9324-F67A72343A10-
-
-CLd /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest normal i386
-s401378542.178213
-e401378542.291873
-r1
-xLd
-x/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest
-xnormal
-xi386
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Link /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest1dc92dee8cecb741^b7b84aee8cecb741^---0#0#0#--1270"Ld Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest normal i386    cd /Users/Masato/Desktop/LoadingViewTest    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator -F/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator -filelist /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/Objects-normal/i386/LoadingViewTest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/LoadingViewTest36"CEF44835-2D1D-4646-A3E7-FE195955C457-
-
-CProcessInfoPlistFile /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Info.plist LoadingViewTest/LoadingViewTest-Info.plist
-s401376174.735429
-e401376174.767267
-r1
-xProcessInfoPlistFile
-x/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Info.plist
-xLoadingViewTest/LoadingViewTest-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Process LoadingViewTest/LoadingViewTest-Info.plist2574c3ae83ecb741^f3cac5ae83ecb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingViewTest-Info.plist0000000000000000^730"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Info.plist LoadingViewTest/LoadingViewTest-Info.plist    cd /Users/Masato/Desktop/LoadingViewTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility LoadingViewTest/LoadingViewTest-Info.plist -genpkginfo /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app/Info.plist36"0CC17BCB-A294-457F-9A6C-11D369853DE4-
-
-CProcessPCH /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-bbbpmsiyrycxrlfblqbpkbhcbksx/LoadingViewTest-Prefix.pch.pth LoadingViewTest/LoadingViewTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-r0
-
-CProcessPCH /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch.pth LoadingViewTest/LoadingViewTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401376174.776946
-e401376177.906719
-r1
-xProcessPCH
-x/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch.pth
-xLoadingViewTest/LoadingViewTest-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile LoadingViewTest/LoadingViewTest-Prefix.pchd026c7ae83ecb741^c58eeab183ecb741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingViewTest-Prefix.pch0000000000000000^3659"ProcessPCH Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch.pth LoadingViewTest/LoadingViewTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Masato/Desktop/LoadingViewTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.1 -iquote /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-generated-files.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-own-target-headers.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-all-target-headers.hmap -iquote /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/LoadingViewTest-project-headers.hmap -I/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/DerivedSources/i386 -I/Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/LoadingViewTest.build/Debug-iphonesimulator/LoadingViewTest.build/DerivedSources -F/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch.dia -c /Users/Masato/Desktop/LoadingViewTest/LoadingViewTest/LoadingViewTest-Prefix.pch -o /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch.pth -MMD -MT dependencies -MF /Users/Masato/Desktop/LoadingViewTest/Build/Intermediates/PrecompiledHeaders/LoadingViewTest-Prefix-fmuqgfukdvklfsabynwjjnilubtq/LoadingViewTest-Prefix.pch.d36"64EBE09A-F20A-400F-AFF0-F26E2E2B1329-
-
-CProcessPCH /Users/Masato/Library/Developer/Xcode/DerivedData/LoadingViewTest-gwfdqwphctrwtzalvgjogolqjdxi/Index/PrecompiledHeaders/LoadingViewTest-Prefix-fmywokmwucaxtzbqhyifxximrwpv_ast/LoadingViewTest-Prefix.pch.pth LoadingViewTest/LoadingViewTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CProcessPCH /Users/Masato/Library/Developer/Xcode/DerivedData/LoadingViewTest-gwfdqwphctrwtzalvgjogolqjdxi/Index/PrecompiledHeaders/LoadingViewTest-Prefix-fungzizaezydxaacdiweozhpmvmf_ast/LoadingViewTest-Prefix.pch.pth LoadingViewTest/LoadingViewTest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
-r0
-
-CTouch /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app
-s401378567.947696
-e401378568.041841
-r1
-xTouch
-x/Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Touch /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.appeba8f2078decb741^07b60a088decb741^---0#0#0#--420"Touch Build/Products/Debug-iphonesimulator/LoadingViewTest.app    cd /Users/Masato/Desktop/LoadingViewTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Masato/Desktop/LoadingViewTest/Build/Products/Debug-iphonesimulator/LoadingViewTest.app36"D6F80245-2EE3-49E3-A4B3-2FE92A9E6793-
-
