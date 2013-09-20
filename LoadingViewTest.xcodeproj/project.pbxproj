@@ -18,6 +18,8 @@
 		69956DCB17EC7F3D00F5A873 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 69956DCA17EC7F3D00F5A873 /* Default-568h@2x.png */; };
 		69956DCE17EC7F3E00F5A873 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 69956DCD17EC7F3E00F5A873 /* ViewController.m */; };
 		69956DD117EC7F3E00F5A873 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 69956DCF17EC7F3E00F5A873 /* ViewController.xib */; };
+		69956DDA17EC7F8B00F5A873 /* LoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 69956DD917EC7F8B00F5A873 /* LoadingView.m */; };
+		69956DDC17EC83D900F5A873 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69956DDB17EC83D900F5A873 /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,9 @@
 		69956DCC17EC7F3E00F5A873 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		69956DCD17EC7F3E00F5A873 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		69956DD017EC7F3E00F5A873 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		69956DD817EC7F8B00F5A873 /* LoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadingView.h; sourceTree = "<group>"; };
+		69956DD917EC7F8B00F5A873 /* LoadingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingView.m; sourceTree = "<group>"; };
+		69956DDB17EC83D900F5A873 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +49,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69956DDC17EC83D900F5A873 /* QuartzCore.framework in Frameworks */,
 				69956DB517EC7F3C00F5A873 /* UIKit.framework in Frameworks */,
 				69956DB717EC7F3C00F5A873 /* Foundation.framework in Frameworks */,
 				69956DB917EC7F3C00F5A873 /* CoreGraphics.framework in Frameworks */,
@@ -56,6 +62,7 @@
 		69956DA817EC7F3C00F5A873 = {
 			isa = PBXGroup;
 			children = (
+				69956DDB17EC83D900F5A873 /* QuartzCore.framework */,
 				69956DBA17EC7F3C00F5A873 /* LoadingViewTest */,
 				69956DB317EC7F3C00F5A873 /* Frameworks */,
 				69956DB217EC7F3C00F5A873 /* Products */,
@@ -83,6 +90,7 @@
 		69956DBA17EC7F3C00F5A873 /* LoadingViewTest */ = {
 			isa = PBXGroup;
 			children = (
+				69956DD717EC7F8B00F5A873 /* LoadingView */,
 				69956DC317EC7F3D00F5A873 /* AppDelegate.h */,
 				69956DC417EC7F3D00F5A873 /* AppDelegate.m */,
 				69956DCC17EC7F3E00F5A873 /* ViewController.h */,
@@ -105,6 +113,15 @@
 				69956DCA17EC7F3D00F5A873 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		69956DD717EC7F8B00F5A873 /* LoadingView */ = {
+			isa = PBXGroup;
+			children = (
+				69956DD817EC7F8B00F5A873 /* LoadingView.h */,
+				69956DD917EC7F8B00F5A873 /* LoadingView.m */,
+			);
+			path = LoadingView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -176,6 +193,7 @@
 				69956DC117EC7F3D00F5A873 /* main.m in Sources */,
 				69956DC517EC7F3D00F5A873 /* AppDelegate.m in Sources */,
 				69956DCE17EC7F3E00F5A873 /* ViewController.m in Sources */,
+				69956DDA17EC7F8B00F5A873 /* LoadingView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +281,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LoadingViewTest/LoadingViewTest-Prefix.pch";
 				INFOPLIST_FILE = "LoadingViewTest/LoadingViewTest-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -274,6 +293,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "LoadingViewTest/LoadingViewTest-Prefix.pch";
 				INFOPLIST_FILE = "LoadingViewTest/LoadingViewTest-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
